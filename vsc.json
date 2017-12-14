@@ -1,0 +1,9 @@
+{
+    "editor.colorDecorators": false,
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "eq-material-theme-icons"
+}
