@@ -42,7 +42,15 @@ A basic checklist to set up my new Mac's development environment.
 
 - Download and install [Visual Studio Code](https://code.visualstudio.com)
 - Install favorite packages
-    - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-    - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
     - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+    - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)    
+    - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+    - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+    - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+    - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+    - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+    - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
+    - [Tailwind sass syntax](https://marketplace.visualstudio.com/items?itemName=macieklad.tailwind-sass-syntax)
+    - [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet)
 - Upload personal settings. <https://github.com/ernstoarllano/config/blob/master/vsc.json>
