@@ -1,9 +1,19 @@
 {
     "editor.colorDecorators": false,
+    "editor.detectIndentation": true,
     "editor.fontSize": 14,
     "editor.formatOnSave": true,
+    "editor.tabSize": 2,
     "editor.wordWrap": "on",
+    "php.validate.enable": true,
+    "php.validate.run": "onType",
     "window.zoomLevel": 1,
     "workbench.colorTheme": "Material Theme",
-    "workbench.iconTheme": "eq-material-theme-icons"
+    "workbench.iconTheme": "material-icon-theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Default High Contrast"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
 }
