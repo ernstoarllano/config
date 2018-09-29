@@ -54,3 +54,15 @@ A basic checklist to set up my new Mac's development environment.
     - [Tailwind sass syntax](https://marketplace.visualstudio.com/items?itemName=macieklad.tailwind-sass-syntax)
     - [WordPress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet)
 - Upload personal settings. <https://github.com/ernstoarllano/config/blob/master/vsc.json>
+
+### 7. Additional Apps
+- Basecamp
+- ImageOptim
+- Kaleidoscope
+- MongoDB Compass
+- Postman
+- Riot
+- Sequel Pro
+- Sketch
+- Slack
+- Transmit
